@@ -6,6 +6,9 @@ Showcase your projects, skills, experience, and personality with a sleek portfol
 
 <p align="center">
   <a href="https://vijay.antideploy.com">🌐 Live Demo</a>
+  ## 📸 Preview
+
+![Portfolio Preview](screenshots/preview.png)
 </p>
 
 ## ✨ Features
