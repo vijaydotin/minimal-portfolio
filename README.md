@@ -1,49 +1,88 @@
-# Minimal Portfolio
+# 🚀 Minimal Portfolio
 
-🚀 **Live Demo:** [vijay.antideploy.com](https://vijay.antideploy.com/)
+A modern, interactive 3D developer portfolio built with **Next.js 16, React 19, Three.js, React Three Fiber, and Tailwind CSS v4**.
 
-An ultra-modern, high-performance developer portfolio built with **Next.js 16**, **React 19**, **Three.js / React Three Fiber**, and **Tailwind CSS v4**.
+Showcase your projects, skills, experience, and personality with a sleek portfolio featuring an interactive 3D MacBook hero.
 
-![Minimal Portfolio Preview](public/preview.png)
-
----
+<p align="center">
+  <a href="https://vijay.antideploy.com">🌐 Live Demo</a>
+</p>
 
 ## ✨ Features
 
-- 🎨 **3D Interactive Hero**: Realistic 3D MacBook Pro hero model rendered with `@react-three/fiber` and `@react-three/drei`.
-- ⚡ **Lightning Fast**: Built on Next.js 16 App Router with Turbopack for optimal performance.
-- 📱 **Fully Responsive & Accessible**: Optimized for all viewports from mobile to 4K displays.
-- 🛠️ **Project Showcase & Interactive Skills**: Highlight key projects with responsive media cards and skill breakdown.
-- 📬 **Contact & Social Links**: Seamless user contact section with social links.
-- 🌐 **SEO & OpenGraph Ready**: Configured dynamic sitemap (`sitemap.ts`) and metadata optimization.
-
----
+- 🖥️ **Interactive 3D Hero** — Realistic MacBook Pro model powered by React Three Fiber.
+- ⚡ **Modern Performance** — Next.js App Router and Turbopack.
+- 📱 **Responsive Design** — Optimized for mobile, tablet, and desktop.
+- 🎨 **Modern UI** — Clean design and smooth animations.
+- 🛠️ **Project Showcase** — Display your projects and skills.
+- 📬 **Contact Section** — Social links and contact information.
+- 🔍 **SEO Ready** — Metadata, sitemap, and Open Graph support.
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
-- **UI Library**: [React 19](https://react.dev/)
-- **3D Graphics**: [Three.js](https://threejs.org/) & [React Three Fiber](https://r3f.docs.pmnd.rs/)
-- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Deployment**: [Antideploy](https://antideploy.com/)
-
----
+| Technology | Purpose |
+|---|---|
+| Next.js 16 | React framework |
+| React 19 | UI library |
+| Three.js | 3D graphics |
+| React Three Fiber | 3D rendering |
+| Tailwind CSS v4 | Styling |
+| Framer Motion | Animations |
 
 ## 🚀 Getting Started
 
-First, clone the repository and install dependencies:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/vijaydotin/minimal-portfolio.git
+```
+
+### 2. Navigate to the project
+
+```bash
 cd minimal-portfolio
+```
+
+### 3. Install dependencies
+
+```bash
 npm install
 ```
 
-Run the development server:
+### 4. Start development server
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser.
+
+## 🎨 Customization
+
+You can customize the portfolio with your own:
+
+- Name and introduction
+- Profile information
+- Projects and descriptions
+- Skills and technologies
+- Social media links
+- Contact information
+
+## 🌐 Live Preview
+
+**[View Live Portfolio →](https://vijay.antideploy.com)**
+
+## 🤝 Contributing
+
+Suggestions, improvements, and contributions are welcome!
+
+Feel free to open an issue or submit a pull request.
+
+## ⭐ Support
+
+If you find this project useful or inspiring, consider giving it a star ⭐ on GitHub. It helps the project reach more developers!
+
+---
+
+**Built with ❤️ by [Vijay](https://github.com/vijaydotin)**
+
